@@ -1,0 +1,12 @@
+html{
+    font-family:cursive ;
+    color: white;
+    background: black;
+}
+div{
+    text-align: center;
+}
+.left{
+    margin: 100px;
+    margin-top: 20px;
+}
